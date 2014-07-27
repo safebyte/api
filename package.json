@@ -1,0 +1,19 @@
+{
+  "name": "safebyte",
+  "version": "0.0.1",
+  "description": "Work in progress...",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/safebyte/api.git"
+  },
+  "keywords": [
+    "safebyte",
+    "api"
+  ],
+  "author": "Niko Wolf <nw@safebyte.com> (https://www.safebyte.com/)",
+  "bugs": {
+    "url": "https://github.com/safebyte/api/issues"
+  },
+  "homepage": "https://github.com/safebyte/api"
+}
